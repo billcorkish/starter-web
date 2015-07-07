@@ -15,3 +15,7 @@ demos.
 ## Deployment
 This is to show an example of deployment
 ## How to Contribute
+
+### Copyright
+
+2015 Git.Training.
