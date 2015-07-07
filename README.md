@@ -16,6 +16,9 @@ demos.
 This is to show an example of deployment
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests
+for review.
+
 ### Copyright
 
 2015 Git.Training.
